@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
-let numeroMaximo = 10;
+let numeroMaximo = 8;
 // nos muestra por consola el número secreto
 console.log(numeroSecreto);
 // funcion que se ejecuta al hacer click en el botón
